@@ -12,7 +12,7 @@ The goal of this project is to create a machine learning model that can generate
 - Generating New Music: Use the trained model to generate new music sequences based on a seed sequence.
 - Saving Generated Data: Save the generated music sequences into a CSV file for further use or analysis.
 
-* About the Dataset *
+# About the Dataset 
   The dataset contains the values of the music notes in an ASCII form which is further used to train the model.
 
-* The output is generated in the form of a `.csv` file containing the values for the notes!
+# The output is generated in the form of a `.csv` file containing the values for the notes!
