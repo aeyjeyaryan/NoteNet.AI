@@ -40,5 +40,10 @@ The dataset consists of ASCII-encoded values representing music notes. These val
 4. **Export Results** 💾:
    - Save the generated sequences to a CSV file for further use.
 
+5. **Convert CSV to Midi** 🔄
+   - Convert the .csv file to .midi using mido.
+
+6. **Convert Midi to Wav** 🎵
+   - Convert the midi file to wav or use the midi file to modify on various instruments.
 
 
